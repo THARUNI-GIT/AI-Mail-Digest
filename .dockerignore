@@ -1,0 +1,12 @@
+.venv
+__pycache__
+.pytest_cache
+.git
+.env
+credentials.json
+token.json
+app_backup.py
+app_before_fix.py
+app_before_groq.py
+app_v2_backup.py
+test-results
